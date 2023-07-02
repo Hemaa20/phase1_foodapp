@@ -1,0 +1,14 @@
+.row img{
+    width:100px;
+    height:100px;
+}
+.col-md-7 img{
+    width:100px;
+    height:100px;
+    display: block;
+}
+.container{
+    display: inline-block;
+    background:white ;
+    
+}
